@@ -9,6 +9,8 @@ public class Prims_Algorithm {
         int des;
         int wt;
 
+
+
         public Edge(int s, int d, int w) {
             this.src = s;
             this.des = d;
