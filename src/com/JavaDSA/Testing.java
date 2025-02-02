@@ -2,7 +2,7 @@ package com.JavaDSA;
 
 import java.util.Arrays;
 
-public class xyz {
+public class Testing {
 
     class Solution {
         public int[][] transpose(int[][] matrix) {
@@ -18,7 +18,7 @@ public class xyz {
 
 
     public static void main(String[] args) {
-        xyz solution = new xyz();
+        Testing solution = new Testing();
 
         // Test Case 1: Basic scenario
         int [][] mat = {{1,2,3},{4,5,6},{7,8,9}};
